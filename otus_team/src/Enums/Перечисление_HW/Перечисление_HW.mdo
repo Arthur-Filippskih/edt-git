@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="de81f325-d108-4ed1-9f3f-cb1dffd26c5d">
+  <producedTypes>
+    <refType typeId="5213c28c-56d9-4cf2-bed5-a8ea728bf07b" valueTypeId="a84b6c07-64d1-46b2-a0b6-7dd2be323ae5"/>
+    <listType typeId="a2f524cc-8f36-4ecf-b883-371d965efb63" valueTypeId="68672efa-0eed-4b92-801f-c51c2bf8051d"/>
+    <managerType typeId="cb47b6be-d8db-4a24-9603-061e2a9ee99d" valueTypeId="736db9d8-cc87-4956-b12a-6f76a0fa4859"/>
+  </producedTypes>
+  <name>Перечисление_HW</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перечисление HW</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="4198d72a-57ed-4c02-ba53-bc8aa0a86a51">
+    <name>ЗначениеПеречисления1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Значение перечисления1</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a524bddf-75e4-4794-9318-f730ae00e3c5">
+    <name>ЗначениеПеречисления2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Значение перечисления2</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
