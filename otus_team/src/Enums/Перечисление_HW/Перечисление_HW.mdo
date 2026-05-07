@@ -26,4 +26,11 @@
       <value>Значение перечисления2</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="06c141d1-a19c-4489-93ff-4568c9dd6786">
+    <name>ЗначениеПеречисления3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Значение перечисления3</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
