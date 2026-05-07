@@ -33,4 +33,11 @@
       <value>Значение перечисления3</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="e24e3a60-86fe-4dd9-abe4-206a47b31262">
+    <name>Перечисления_ДЗ_2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Перечисления_ДЗ_2</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
